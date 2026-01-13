@@ -1,0 +1,5 @@
+{
+  "name": "Pastel BMI Magic",
+  "description": "A beautiful pastel-themed BMI calculator that provides health insights and personalized advice using Gemini AI.",
+  "requestFramePermissions": []
+}
